@@ -1,0 +1,11 @@
+C:\Windows_Projects\RotateTransformDemo\RotateTransformDemo\bin\Debug\RotateTransformDemo.exe.config
+C:\Windows_Projects\RotateTransformDemo\RotateTransformDemo\obj\Debug\RotateTransformDemo.exe
+C:\Windows_Projects\RotateTransformDemo\RotateTransformDemo\obj\Debug\RotateTransformDemo.pdb
+C:\Windows_Projects\RotateTransformDemo\RotateTransformDemo\bin\Debug\RotateTransformDemo.exe
+C:\Windows_Projects\RotateTransformDemo\RotateTransformDemo\bin\Debug\RotateTransformDemo.pdb
+C:\Windows_Projects\RotateTransformDemo\RotateTransformDemo\obj\Debug\RotateTransformDemo.Form1.resources
+C:\Windows_Projects\RotateTransformDemo\RotateTransformDemo\obj\Debug\RotateTransformDemo.Form2.resources
+C:\Windows_Projects\RotateTransformDemo\RotateTransformDemo\obj\Debug\RotateTransformDemo.Properties.Resources.resources
+C:\Windows_Projects\RotateTransformDemo\RotateTransformDemo\obj\Debug\RotateTransformDemo.csproj.GenerateResource.Cache
+C:\Windows_Projects\RotateTransformDemo\RotateTransformDemo\obj\Debug\RotateTransformDemo.csproj.CoreCompileInputs.cache
+C:\Windows_Projects\RotateTransformDemo\RotateTransformDemo\obj\Debug\RotateTransformDemo.csprojResolveAssemblyReference.cache

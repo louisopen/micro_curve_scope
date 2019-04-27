@@ -1,0 +1,37 @@
+C:\Windows_Projects\MicroCurveScope\RotateTransformDemo\obj\Debug\RotateTransformDemo.Form1.resources
+C:\Windows_Projects\MicroCurveScope\RotateTransformDemo\obj\Debug\RotateTransformDemo.Properties.Resources.resources
+C:\Windows_Projects\MicroCurveScope\RotateTransformDemo\obj\Debug\MicroCurveScope.csproj.GenerateResource.Cache
+C:\Windows_Projects\MicroCurveScope\RotateTransformDemo\obj\Debug\MicroCurveScope.csproj.CoreCompileInputs.cache
+C:\Windows_Projects\MicroCurveScope\RotateTransformDemo\obj\Debug\RotateTransformDemo.exe
+C:\Windows_Projects\MicroCurveScope\RotateTransformDemo\obj\Debug\RotateTransformDemo.pdb
+C:\Windows_Projects\MicroCurveScope\RotateTransformDemo\bin\Debug\RotateTransformDemo.exe.config
+C:\Windows_Projects\MicroCurveScope\RotateTransformDemo\bin\Debug\RotateTransformDemo.exe
+C:\Windows_Projects\MicroCurveScope\RotateTransformDemo\bin\Debug\RotateTransformDemo.pdb
+C:\Windows_Projects\GraphicsCurveMicroScope\RotateTransformDemo\bin\Debug\RotateTransformDemo.exe.config
+C:\Windows_Projects\GraphicsCurveMicroScope\RotateTransformDemo\bin\Debug\RotateTransformDemo.exe
+C:\Windows_Projects\GraphicsCurveMicroScope\RotateTransformDemo\bin\Debug\RotateTransformDemo.pdb
+C:\Windows_Projects\GraphicsCurveMicroScope\RotateTransformDemo\obj\Debug\RotateTransformDemo.Form1.resources
+C:\Windows_Projects\GraphicsCurveMicroScope\RotateTransformDemo\obj\Debug\RotateTransformDemo.Properties.Resources.resources
+C:\Windows_Projects\GraphicsCurveMicroScope\RotateTransformDemo\obj\Debug\MicroCurveScope.csproj.GenerateResource.Cache
+C:\Windows_Projects\GraphicsCurveMicroScope\RotateTransformDemo\obj\Debug\MicroCurveScope.csproj.CoreCompileInputs.cache
+C:\Windows_Projects\GraphicsCurveMicroScope\RotateTransformDemo\obj\Debug\RotateTransformDemo.exe
+C:\Windows_Projects\GraphicsCurveMicroScope\RotateTransformDemo\obj\Debug\RotateTransformDemo.pdb
+C:\HOLTEK\HOLTEK Blood pressure\Windows Blood pressure Tool\RotateTransformDemo\bin\Debug\MicroCurveScope.exe.config
+C:\HOLTEK\HOLTEK Blood pressure\Windows Blood pressure Tool\RotateTransformDemo\bin\Debug\MicroCurveScope.exe
+C:\HOLTEK\HOLTEK Blood pressure\Windows Blood pressure Tool\RotateTransformDemo\bin\Debug\MicroCurveScope.pdb
+C:\HOLTEK\HOLTEK Blood pressure\Windows Blood pressure Tool\RotateTransformDemo\obj\Debug\RotateTransformDemo.Form1.resources
+C:\HOLTEK\HOLTEK Blood pressure\Windows Blood pressure Tool\RotateTransformDemo\obj\Debug\MicroCurveScope.Properties.Resources.resources
+C:\HOLTEK\HOLTEK Blood pressure\Windows Blood pressure Tool\RotateTransformDemo\obj\Debug\MicroCurveScope.csproj.GenerateResource.cache
+C:\HOLTEK\HOLTEK Blood pressure\Windows Blood pressure Tool\RotateTransformDemo\obj\Debug\MicroCurveScope.csproj.CoreCompileInputs.cache
+C:\HOLTEK\HOLTEK Blood pressure\Windows Blood pressure Tool\RotateTransformDemo\obj\Debug\MicroCurveScope.exe
+C:\HOLTEK\HOLTEK Blood pressure\Windows Blood pressure Tool\RotateTransformDemo\obj\Debug\MicroCurveScope.pdb
+C:\HOLTEK\HOLTEK Blood pressure\Windows Blood pressure Tool\micro_curve_scope\bin\Debug\MicroCurveScope.exe.config
+C:\HOLTEK\HOLTEK Blood pressure\Windows Blood pressure Tool\micro_curve_scope\bin\Debug\MicroCurveScope.exe
+C:\HOLTEK\HOLTEK Blood pressure\Windows Blood pressure Tool\micro_curve_scope\bin\Debug\MicroCurveScope.pdb
+C:\HOLTEK\HOLTEK Blood pressure\Windows Blood pressure Tool\micro_curve_scope\obj\Debug\MicroCurveScope.csprojAssemblyReference.cache
+C:\HOLTEK\HOLTEK Blood pressure\Windows Blood pressure Tool\micro_curve_scope\obj\Debug\RotateTransformDemo.Form1.resources
+C:\HOLTEK\HOLTEK Blood pressure\Windows Blood pressure Tool\micro_curve_scope\obj\Debug\MicroCurveScope.Properties.Resources.resources
+C:\HOLTEK\HOLTEK Blood pressure\Windows Blood pressure Tool\micro_curve_scope\obj\Debug\MicroCurveScope.csproj.GenerateResource.cache
+C:\HOLTEK\HOLTEK Blood pressure\Windows Blood pressure Tool\micro_curve_scope\obj\Debug\MicroCurveScope.csproj.CoreCompileInputs.cache
+C:\HOLTEK\HOLTEK Blood pressure\Windows Blood pressure Tool\micro_curve_scope\obj\Debug\MicroCurveScope.exe
+C:\HOLTEK\HOLTEK Blood pressure\Windows Blood pressure Tool\micro_curve_scope\obj\Debug\MicroCurveScope.pdb

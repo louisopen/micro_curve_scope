@@ -1,0 +1,18 @@
+C:\Documents and Settings\louishuang\桌面\WinApp\4200898165421\RotateTransformDemo\bin\Debug\RotateTransformDemo.exe
+C:\Documents and Settings\louishuang\桌面\WinApp\4200898165421\RotateTransformDemo\bin\Debug\RotateTransformDemo.pdb
+C:\Documents and Settings\louishuang\桌面\WinApp\4200898165421\RotateTransformDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\louishuang\桌面\WinApp\4200898165421\RotateTransformDemo\obj\Debug\RotateTransformDemo.Form1.resources
+C:\Documents and Settings\louishuang\桌面\WinApp\4200898165421\RotateTransformDemo\obj\Debug\RotateTransformDemo.Form2.resources
+C:\Documents and Settings\louishuang\桌面\WinApp\4200898165421\RotateTransformDemo\obj\Debug\RotateTransformDemo.Properties.Resources.resources
+C:\Documents and Settings\louishuang\桌面\WinApp\4200898165421\RotateTransformDemo\obj\Debug\RotateTransformDemo.csproj.GenerateResource.Cache
+C:\Documents and Settings\louishuang\桌面\WinApp\4200898165421\RotateTransformDemo\obj\Debug\RotateTransformDemo.exe
+C:\Documents and Settings\louishuang\桌面\WinApp\4200898165421\RotateTransformDemo\obj\Debug\RotateTransformDemo.pdb
+D:\WinApp\4200898165421\RotateTransformDemo\obj\Debug\RotateTransformDemo.exe
+D:\WinApp\4200898165421\RotateTransformDemo\obj\Debug\RotateTransformDemo.pdb
+D:\WinApp\4200898165421\RotateTransformDemo\bin\Debug\RotateTransformDemo.exe
+D:\WinApp\4200898165421\RotateTransformDemo\bin\Debug\RotateTransformDemo.pdb
+D:\WinApp\4200898165421\RotateTransformDemo\obj\Debug\ResolveAssemblyReference.cache
+D:\WinApp\4200898165421\RotateTransformDemo\obj\Debug\RotateTransformDemo.Form1.resources
+D:\WinApp\4200898165421\RotateTransformDemo\obj\Debug\RotateTransformDemo.Form2.resources
+D:\WinApp\4200898165421\RotateTransformDemo\obj\Debug\RotateTransformDemo.Properties.Resources.resources
+D:\WinApp\4200898165421\RotateTransformDemo\obj\Debug\RotateTransformDemo.csproj.GenerateResource.Cache
