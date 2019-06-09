@@ -1,9 +1,0 @@
-C:\HOLTEK\HOLTEK Blood pressure\Windows Blood pressure Tool\micro_curve_scope\bin\Debug\MicroCurveScope.exe.config
-C:\HOLTEK\HOLTEK Blood pressure\Windows Blood pressure Tool\micro_curve_scope\bin\Debug\MicroCurveScope.exe
-C:\HOLTEK\HOLTEK Blood pressure\Windows Blood pressure Tool\micro_curve_scope\bin\Debug\MicroCurveScope.pdb
-C:\HOLTEK\HOLTEK Blood pressure\Windows Blood pressure Tool\micro_curve_scope\obj\Debug\RotateTransformDemo.Form1.resources
-C:\HOLTEK\HOLTEK Blood pressure\Windows Blood pressure Tool\micro_curve_scope\obj\Debug\MicroCurveScope.Properties.Resources.resources
-C:\HOLTEK\HOLTEK Blood pressure\Windows Blood pressure Tool\micro_curve_scope\obj\Debug\MicroCurveScope.csproj.GenerateResource.cache
-C:\HOLTEK\HOLTEK Blood pressure\Windows Blood pressure Tool\micro_curve_scope\obj\Debug\MicroCurveScope.csproj.CoreCompileInputs.cache
-C:\HOLTEK\HOLTEK Blood pressure\Windows Blood pressure Tool\micro_curve_scope\obj\Debug\MicroCurveScope.exe
-C:\HOLTEK\HOLTEK Blood pressure\Windows Blood pressure Tool\micro_curve_scope\obj\Debug\MicroCurveScope.pdb
